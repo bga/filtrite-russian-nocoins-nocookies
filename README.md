@@ -10,6 +10,7 @@ You can choose any list from the table, then hold the name to copy its link. Add
 | [Bromite Extended](https://github.com/xarantolus/filtrite/releases/latest/download/bromite-extended.dat) | The default list with additional annoyance blockers I use with [uBlock Origin](https://github.com/gorhill/uBlock) on Desktop |
 | [Bromite Extended (Soft)](https://github.com/xarantolus/filtrite/releases/latest/download/bromite-extended-soft.dat) | Same as the "Bromite Extended" list, but with less aggressive filtering (should break fewer sites) |
 | [German](https://github.com/xarantolus/filtrite/releases/latest/download/german.dat) | The "Bromite Extended" list with additional region-specific blocklists for german sites |
+| [Russian-NoCoins-NoCookies](https://github.com/bga/filtrite-russian-nocoins-nocookies/releases/latest/download/russian-nocoins-nocookes.dat) | The "Russian-NoCoins-NoCookies" list with additional region-specific blocklists for russian sites |
 
 Alternatively, you can [go here to search forks of this project](https://filterlists.010.one/) for more lists, e.g. for other countries.
 
